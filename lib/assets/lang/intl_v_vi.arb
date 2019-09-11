@@ -1,0 +1,20 @@
+{
+  "@@last_modified": "2019-03-24T16:28:06.340750",
+  "title": "Hello world App",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Hello",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Portfolio": "Portfolio",
+  "@Portfolio": {
+    "description": "Title of Portfolio Screen",
+    "type": "text",
+    "placeholders": {}
+  }
+}
